@@ -1,9 +1,0 @@
-[options]
-group_id = option_groups:id
-
-[villa_options]
-villa_id = villa:id
-option_id = options:id
-
-[booking]
-villa_id = villa:id

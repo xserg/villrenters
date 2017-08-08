@@ -1,8 +1,0 @@
-#/bin/sh
-rm /var/www/villa/cache/villa_index/cache*
-rm /var/www/villa/cache/villa/cache*
-rm /var/www/villa/cache/cache_countries_index
-
-rm /var/www/holidayaway/cache/villa_index/cache*
-rm /var/www/holidayaway/cache/villa/cache*
-rm /var/www/holidayaway/cache/cache_countries_index
