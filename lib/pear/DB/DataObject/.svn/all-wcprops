@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject/Error.php
+END
+Cast.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject/Cast.php
+END
+FormBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject/FormBuilder.php
+END
+createTables.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject/createTables.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject/Generator.php
+END

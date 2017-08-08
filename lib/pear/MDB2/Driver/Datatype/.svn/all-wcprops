@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/70/trunk/lib/pear/MDB2/Driver/Datatype
+END
+oci8.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/lib/pear/MDB2/Driver/Datatype/oci8.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/lib/pear/MDB2/Driver/Datatype/mysql.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/70/trunk/lib/pear/MDB2/Driver/Datatype/Common.php
+END

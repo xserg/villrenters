@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/396/trunk/layout
+END
+livesearch.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/layout/livesearch.class.php
+END
+translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/223/trunk/layout/translate.php
+END
+Layout_Redactor.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/70/trunk/layout/Layout_Redactor.php
+END
+getXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/333/trunk/layout/getXML.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/379/trunk/layout/Cache.php
+END
+Layout_Mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/311/trunk/layout/Layout_Mobile.php
+END
+Layout_Loginuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/193/trunk/layout/Layout_Loginuser.php
+END
+activecalendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/70/trunk/layout/activecalendar.php
+END
+mobir.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/315/trunk/layout/mobir.php
+END
+getData.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/328/trunk/layout/getData.php
+END
+Layout_Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/70/trunk/layout/Layout_Client.php
+END
+Layout_User.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/396/trunk/layout/Layout_User.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/layout/Layout.php
+END
+getHTTP.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/329/trunk/layout/getHTTP.php
+END
+Layout_Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/trunk/layout/Layout_Admin.php
+END
+Lang_ru.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/357/trunk/layout/Lang_ru.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/239/trunk/lib/pear/HTTP/Request2
+END
+SocketWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/238/trunk/lib/pear/HTTP/Request2/SocketWrapper.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/236/trunk/lib/pear/HTTP/Request2/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/236/trunk/lib/pear/HTTP/Request2/Response.php
+END
+MultipartBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/236/trunk/lib/pear/HTTP/Request2/MultipartBody.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/236/trunk/lib/pear/HTTP/Request2/Adapter.php
+END
+CookieJar.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/236/trunk/lib/pear/HTTP/Request2/CookieJar.php
+END
+SOCKS5.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/239/trunk/lib/pear/HTTP/Request2/SOCKS5.php
+END

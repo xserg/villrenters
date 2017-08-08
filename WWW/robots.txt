@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /?op=villa&act=book
+Disallow: /?op=query&act=new
+Disallow: /captcha.php
+Disallow: /find
+
+User-agent: msnbot
+Disallow: /regions
+
+User-Agent: Yandex
+Host: villarenters.ru

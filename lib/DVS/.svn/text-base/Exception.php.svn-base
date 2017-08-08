@@ -1,0 +1,22 @@
+<?php
+/**
+ * DVS Framework
+ *
+ * @category   DVS
+ * @package    DVS
+ * @version $Id$
+ */
+
+
+/**
+ * Исключения
+ *
+ * @category   DVS
+ * @package    DVS
+ */
+
+
+class DVS_Exception extends Exception
+{}
+
+?>

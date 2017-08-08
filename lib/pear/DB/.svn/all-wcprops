@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/70/trunk/lib/pear/DB
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/pear/DB/mysqli.php
+END
+mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/pear/DB/mssql.php
+END
+DataObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/70/trunk/lib/pear/DB/DataObject.php
+END
+sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/pear/DB/sqlite.php
+END
+oci8.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/lib/pear/DB/oci8.php
+END
+storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/trunk/lib/pear/DB/storage.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/pear/DB/mysql.php
+END
+pgsql.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/pear/DB/pgsql.php
+END
+odbc.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/lib/pear/DB/odbc.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/pear/DB/common.php
+END

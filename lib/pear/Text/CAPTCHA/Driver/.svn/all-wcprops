@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver
+END
+Figlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver/Figlet.php
+END
+Word.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver/Word.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver/Image.php
+END
+Numeral.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver/Numeral.php
+END
+Equation.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/70/trunk/lib/pear/Text/CAPTCHA/Driver/Equation.php
+END

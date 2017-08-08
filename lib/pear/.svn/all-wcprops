@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/239/trunk/lib/pear
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/pear/Validate.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/pear/Date.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/pear/Auth.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/pear/Mail.php
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/70/trunk/lib/pear/System.php
+END
+MDB2.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/pear/MDB2.php
+END
+DB.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/70/trunk/lib/pear/DB.php
+END
+PEAR.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/pear/PEAR.php
+END

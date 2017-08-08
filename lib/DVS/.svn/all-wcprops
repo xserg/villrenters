@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/388/trunk/lib/DVS
+END
+ShowCSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/70/trunk/lib/DVS/ShowCSV.php
+END
+CheckForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/DVS/CheckForm.php
+END
+Delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/lib/DVS/Delete.php
+END
+Admin_Office.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/226/trunk/lib/DVS/Admin_Office.php
+END
+CheckDuplicate.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/70/trunk/lib/DVS/CheckDuplicate.php
+END
+Order.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/DVS/Order.php
+END
+ShowList.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/lib/DVS/ShowList.php
+END
+Constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/DVS/Constants.php
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/299/trunk/lib/DVS/Page.php
+END
+CheckImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/DVS/CheckImage.php
+END
+ShowMail.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/lib/DVS/ShowMail.php
+END
+Dynamic.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/388/trunk/lib/DVS/Dynamic.php
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/DVS/Error.php
+END
+ShowError.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/DVS/ShowError.php
+END
+CheckExist.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/DVS/CheckExist.php
+END
+DVS.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/70/trunk/lib/DVS/DVS.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/DVS/Exception.php
+END
+Auth_User.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/trunk/lib/DVS/Auth_User.php
+END
+Layout_Admin_Office.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/70/trunk/lib/DVS/Layout_Admin_Office.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/191/trunk/lib/DVS/Auth.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/299/trunk/lib/DVS/Cache.php
+END
+ShowForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/118/trunk/lib/DVS/ShowForm.php
+END
+Reclama.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/70/trunk/lib/DVS/Reclama.php
+END
+CheckPhone.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/DVS/CheckPhone.php
+END
+Auth_Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/192/trunk/lib/DVS/Auth_Admin.php
+END
+CheckBlack.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/DVS/CheckBlack.php
+END
+ShowCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/lib/DVS/ShowCard.php
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/70/trunk/lib/DVS/List.php
+END
+Layout_User.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/trunk/lib/DVS/Layout_User.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/lib/DVS/Layout.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/70/trunk/lib/DVS/Mail.php
+END
+CheckPerms.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/lib/DVS/CheckPerms.php
+END
+Static.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/lib/DVS/Static.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/70/trunk/lib/DVS/Table.php
+END
