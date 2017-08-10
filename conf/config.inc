@@ -99,6 +99,8 @@ if (getenv(APP_ENV) == 'DEV') {
         define('MAIL_USERNAME', 'sergfomin@mail.ru');
         define('MAIL_PASSWORD', '');
         define('GOOGLE_MAPS_API_KEY', '');
+        define('GMAP_KEY', 'AIzaSyAbnwDID2N8mO-UV8ciWj8RH76MXj4__Hc');
+
     //}
 } else {
     //  ŒÕ‘»√”–¿÷»ﬂ –¿¡Œ◊≈√Œ —≈–¬≈–¿
@@ -125,6 +127,7 @@ if (getenv(APP_ENV) == 'DEV') {
     define('DB_NAME_RURENTER', 'xserg_rurenter');
     define('DB_NAME_INTERHOME', 'interhome');
     define('GOOGLE_MAPS_API_KEY', '');
+    define('GMAP_KEY', 'AIzaSyAbnwDID2N8mO-UV8ciWj8RH76MXj4__Hc');
 
 }
 

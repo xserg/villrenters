@@ -352,7 +352,10 @@ class Project_Villa_Show extends DVS_Dynamic
             }
         }
         $this->src_files = array(
-            'JS_SRC' => array("http://maps.google.com/maps/api/js?sensor=false&libraries=places,panoramio")
+            'JS_SRC' => array(
+              //"https://maps.googleapis.com/maps/api/js?key=".GMAP_KEY
+              "http://maps.google.com/maps/api/js?libraries=places,panoramio&key=".GMAP_KEY
+            )
             );
         $this->page_arr['JSCRIPT'] = '
     var map;
