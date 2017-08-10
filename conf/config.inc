@@ -106,7 +106,7 @@ if (getenv(APP_ENV) == 'DEV') {
      * Параметры соединения с базой данных
      */
     define('DB_USER', 'xserg');
-    define('DB_PASS', 'rottar');
+    define('DB_PASS', 'xserg17');
     ini_set('include_path', COMMON_LIB.':'.COMMON_LIB.'pear:.');
     error_reporting(E_ERROR | E_WARNING | E_PARSE);
     ini_set('display_errors', 'Off');
